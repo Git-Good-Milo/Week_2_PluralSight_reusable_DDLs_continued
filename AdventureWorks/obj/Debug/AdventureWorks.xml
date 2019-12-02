@@ -74,6 +74,16 @@ ProductDetailControl
 InitializeComponent
 </summary>
 </member>
+<member name="T:AdventureWorks.ProductListControl">
+<summary>
+ProductListControl
+</summary>
+</member>
+<member name="M:AdventureWorks.ProductListControl.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:AdventureWorks.Application">
 <summary>
 Application

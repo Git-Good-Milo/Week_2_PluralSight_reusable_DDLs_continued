@@ -1,0 +1,17 @@
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.ViewModelLayer.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.ViewModelLayer.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.ViewModelLayer.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.EntityLayer.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\Common.Library.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.EntityLayer.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.EntityLayer.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\Common.Library.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\Common.Library.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.vbprojAssemblyReference.cache
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.Resources.resources
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.vbproj.GenerateResource.cache
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.vbproj.CoreCompileInputs.cache
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.vbproj.CopyComplete
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.pdb

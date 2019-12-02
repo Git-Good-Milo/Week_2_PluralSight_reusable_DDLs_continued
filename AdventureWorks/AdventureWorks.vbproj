@@ -74,6 +74,9 @@
     <Compile Include="ProductControl\ProductDetailControl.xaml.vb">
       <DependentUpon>ProductDetailControl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ProductControl\ProductListControl.xaml.vb">
+      <DependentUpon>ProductListControl.xaml</DependentUpon>
+    </Compile>
     <Page Include="CustomerDetailControl\CustomerDetailControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -91,6 +94,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="ProductControl\ProductDetailControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProductControl\ProductListControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -146,12 +153,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="AdventureWorks.EntityLayer\AdventureWorks.EntityLayer.vbproj">
-      <Project>{ca58e611-1d17-4ee5-818a-ecdeab273093}</Project>
+    <ProjectReference Include="..\AdventureWorks.EntityLayer\AdventureWorks.EntityLayer.vbproj">
+      <Project>{b18c8185-b809-4079-a6d6-ca223bdeb32b}</Project>
       <Name>AdventureWorks.EntityLayer</Name>
     </ProjectReference>
-    <ProjectReference Include="AdventureWorks.ViewModelLayer\AdventureWorks.ViewModelLayer.vbproj">
-      <Project>{a8f2d370-2ea8-4905-a965-6c7c609b5b7d}</Project>
+    <ProjectReference Include="..\AdventureWorks.ViewModelLayer\AdventureWorks.ViewModelLayer.vbproj">
+      <Project>{23edefb0-5935-4e92-b01c-3ff39ea56c83}</Project>
       <Name>AdventureWorks.ViewModelLayer</Name>
     </ProjectReference>
     <ProjectReference Include="Common.Library\Common.Library.vbproj">

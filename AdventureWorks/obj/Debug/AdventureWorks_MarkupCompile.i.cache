@@ -4,17 +4,17 @@
 winexe
 VB
 .vb
-C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs\AdventureWorks\obj\Debug\
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks\obj\Debug\
 AdventureWorks
 none
 false
 
-C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs\AdventureWorks\Application.xaml
-31571723610
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks\Application.xaml
+5-1731979006
 
-91016476388
-14-413057963
-CustomerDetailControl\CustomerDetailControl.xaml;MainWindow.xaml;ProductControl\ProductDetailControl.xaml;
+11487945193
+14659143830
+CustomerDetailControl\CustomerDetailControl.xaml;CustomerDetailControl\CustomerListControl.xaml;MainWindow.xaml;ProductControl\ProductDetailControl.xaml;ProductControl\ProductListControl.xaml;
 
 True
 

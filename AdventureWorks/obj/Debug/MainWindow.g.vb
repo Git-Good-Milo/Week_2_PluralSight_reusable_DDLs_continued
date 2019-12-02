@@ -13,7 +13,6 @@ Option Strict Off
 Option Explicit On
 
 Imports AdventureWorks
-Imports AdventureWorks.ViewModelLayer
 Imports System
 Imports System.Diagnostics
 Imports System.Windows

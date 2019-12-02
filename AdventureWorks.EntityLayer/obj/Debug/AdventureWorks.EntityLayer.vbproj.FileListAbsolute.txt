@@ -1,0 +1,13 @@
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\bin\Debug\AdventureWorks.EntityLayer.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\bin\Debug\AdventureWorks.EntityLayer.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\bin\Debug\AdventureWorks.EntityLayer.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\bin\Debug\Common.Library.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\bin\Debug\Common.Library.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\bin\Debug\Common.Library.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.Resources.resources
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.vbproj.GenerateResource.cache
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.vbproj.CoreCompileInputs.cache
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.vbproj.CopyComplete
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.pdb
