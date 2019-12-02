@@ -26,7 +26,7 @@ Public Class ProductManager
                                .ProductID = Convert.ToInt32(prod.Element("ProductID").Value),
                                .Name = prod.Element("Name").Value,
                                .ProductNumber = prod.Element("ProductNumber").Value,
-                               .Color = prod.Element("Colour").Value,
+                               .Color = prod.Element("Coour").Value,
                                .Weight = Convert.ToDecimal(prod.Element("Weight").Value),
                                .StandardCost = Convert.ToDecimal(prod.Element("StandardCost").Value),
                                .SellStartDate = Convert.ToDateTime(prod.Element("SellStartDate").Value),
@@ -36,6 +36,7 @@ Public Class ProductManager
 
             ret = New ObservableCollection(Of Product)(products.ToList)
         Catch ex As Exception
+
             System.Diagnostics.Debug.WriteLine(ex.ToString())
 
         End Try
