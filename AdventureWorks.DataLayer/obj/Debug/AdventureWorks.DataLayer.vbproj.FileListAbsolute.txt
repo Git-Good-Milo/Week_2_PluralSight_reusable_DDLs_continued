@@ -1,0 +1,17 @@
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.DataLayer.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.DataLayer.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.DataLayer.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.EntityLayer.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\bin\Debug\Common.Library.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.EntityLayer.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.EntityLayer.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\bin\Debug\Common.Library.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\bin\Debug\Common.Library.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.vbprojAssemblyReference.cache
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.Resources.resources
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.vbproj.GenerateResource.cache
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.vbproj.CoreCompileInputs.cache
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.vbproj.CopyComplete
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.pdb

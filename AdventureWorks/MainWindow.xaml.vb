@@ -12,4 +12,9 @@
         contentArea.Children.Clear()
         contentArea.Children.Add(New CustomerDetailControl)
     End Sub
+
+    Private Sub ProductList_Click(sender As Object, e As RoutedEventArgs)
+        contentArea.Children.Clear()
+        contentArea.Children.Add(New ProductListControl)
+    End Sub
 End Class

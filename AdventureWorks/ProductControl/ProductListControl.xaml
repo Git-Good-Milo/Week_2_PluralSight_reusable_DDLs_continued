@@ -12,6 +12,6 @@
     </UserControl.Resources>
     <Grid>
         <DataGrid DataContext="{StaticResource viewModel}"
-                ItemsSource="{Binding Path=Product}" />
+                  ItemsSource="{Binding Path=Products}" />
     </Grid>
 </UserControl>

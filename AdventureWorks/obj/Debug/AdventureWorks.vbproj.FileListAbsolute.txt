@@ -62,3 +62,8 @@ C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWo
 C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks\obj\Debug\AdventureWorks.vbproj.CopyComplete
 C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks\obj\Debug\ProductControl\ProductListControl.g.vb
 C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks\obj\Debug\ProductControl\ProductListControl.baml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks\bin\Debug\AdventureWorks.DataLayer.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks\bin\Debug\AdventureWorks.DataLayer.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks\bin\Debug\AdventureWorks.DataLayer.xml
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks\obj\Debug\CustomerDetailControl\CustomerListControl.g.vb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks\obj\Debug\CustomerDetailControl\CustomerListControl.baml

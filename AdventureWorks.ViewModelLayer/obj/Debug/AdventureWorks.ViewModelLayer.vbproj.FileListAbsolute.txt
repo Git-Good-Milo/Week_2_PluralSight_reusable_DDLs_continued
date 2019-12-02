@@ -15,3 +15,6 @@ C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWo
 C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.dll
 C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.xml
 C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.DataLayer.dll
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.DataLayer.pdb
+C:\Users\miloe\code\learning_vb_net\creating_reusable_DLLs_continued\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.DataLayer.xml

@@ -1,1 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Customers>
+  <Customer>
+    <CustomerID>1</CustomerID>
+    <CompanyName>DLG</CompanyName>
+    <FirstName>Sam</FirstName>
+    <LastName>Forrester</LastName>
+  </Customer>
+  <Customer>
+    <CustomerID>2</CustomerID>
+    <CompanyName>DLG</CompanyName>
+    <FirstName>Miles</FirstName>
+    <LastName>Eastwood</LastName>
+  </Customer>
+  <Customer>
+    <CustomerID>3</CustomerID>
+    <CompanyName>DLG</CompanyName>
+    <FirstName>Jamaine</FirstName>
+    <LastName>Renzulli</LastName>
+  </Customer>
+  <Customer>
+    <CustomerID>4</CustomerID>
+    <CompanyName>DLG</CompanyName>
+    <FirstName>Max</FirstName>
+    <LastName>Woodland-Hill</LastName>
+  </Customer>
+  <Customer>
+    <CustomerID>5</CustomerID>
+    <CompanyName>DLG</CompanyName>
+    <FirstName>Naila</FirstName>
+    <LastName>Nasleem</LastName>
+  </Customer>
+  <Customer>
+    <CustomerID>6</CustomerID>
+    <CompanyName>DLG</CompanyName>
+    <FirstName>Payal</FirstName>
+    <LastName>Nayee</LastName>
+  </Customer>
+  <Customer>
+    <CustomerID>7</CustomerID>
+    <CompanyName>DLG</CompanyName>
+    <FirstName>Matt</FirstName>
+    <LastName>Mackreth</LastName>
+  </Customer>
+</Customers>
+

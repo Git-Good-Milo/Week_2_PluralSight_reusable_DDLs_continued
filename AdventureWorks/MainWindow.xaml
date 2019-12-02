@@ -21,6 +21,8 @@
             <MenuItem Header="Products">
                 <MenuItem Header="Detail"
                           Click="ProductDetail_Click" />
+                <MenuItem Header="List"
+                          Click="ProductList_Click" />
             </MenuItem>
             <MenuItem Header="Customers">
                 <MenuItem Header="Detail"

@@ -64,6 +64,16 @@ CustomerDetailControl
 InitializeComponent
 </summary>
 </member>
+<member name="T:AdventureWorks.CustomerListControl">
+<summary>
+CustomerListControl
+</summary>
+</member>
+<member name="M:AdventureWorks.CustomerListControl.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:AdventureWorks.ProductDetailControl">
 <summary>
 ProductDetailControl
