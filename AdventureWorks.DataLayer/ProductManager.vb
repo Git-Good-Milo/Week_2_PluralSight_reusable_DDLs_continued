@@ -27,6 +27,7 @@ Public Class ProductManager
                                .Name = prod.Element("Name").Value,
                                .ProductNumber = prod.Element("ProductNumber").Value,
                                .Color = prod.Element("Colour").Value,
+                               .Size = prod.Element("Size").Value,
                                .Weight = Convert.ToDecimal(prod.Element("Weight").Value),
                                .StandardCost = Convert.ToDecimal(prod.Element("StandardCost").Value),
                                .SellStartDate = Convert.ToDateTime(prod.Element("SellStartDate").Value),
