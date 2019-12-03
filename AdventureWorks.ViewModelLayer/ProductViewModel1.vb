@@ -27,4 +27,20 @@ Public Class ProductViewModel1
         Return Products
     End Function
 
+    Function LoadProduct(ByVal productId As Integer) As Product
+        Return LoadProduct(productId, Nothing)
+    End Function
+
+    Function LoadProduct(ByVal productId As Integer, ByVal startingFilePath As String) As Product
+        ' Create new instance if the product manager class
+        Dim mgr = New ProductManager
+
+        Entity = mgr.LoadProduct(productId, startingFilePath)
+
+        ' Inform UI that the Entity Property has changed
+        RaisePropertyChanged("Entity")
+
+        Return Entity
+    End Function
+
 End Class

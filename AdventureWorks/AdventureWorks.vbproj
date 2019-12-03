@@ -160,6 +160,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AdventureWorks.DataLayer\AdventureWorks.DataLayer.vbproj">
+      <Project>{06674275-35ed-492a-80b4-ac68e89101d7}</Project>
+      <Name>AdventureWorks.DataLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\AdventureWorks.EntityLayer\AdventureWorks.EntityLayer.vbproj">
       <Project>{b18c8185-b809-4079-a6d6-ca223bdeb32b}</Project>
       <Name>AdventureWorks.EntityLayer</Name>

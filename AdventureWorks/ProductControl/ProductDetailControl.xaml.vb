@@ -8,11 +8,11 @@ Public Class ProductDetailControl
         InitializeComponent()
 
         ' Add any initialization after the InitializeComponent() call.
-        _viewModel = DirectCast(Me.Resources("viewmodel"), ProductViewModel1)
+        _viewModel = DirectCast(Me.Resources("viewModel"), ProductViewModel1)
     End Sub
 
-    Private _viewmodel As ProductViewModel1
+    Private _viewModel As ProductViewModel1
     Private Sub UserControl_Loaded(sender As Object, e As RoutedEventArgs)
-        _viewmodel.LoadProducts(706)
+        _viewModel.LoadProduct(706)
     End Sub
 End Class
